@@ -175,7 +175,7 @@ page_data:
     - type: id_picture
       project_name: "Exemplo de Projeto"
       project_excerpt: "Imagem"
-      img: ":project2_thumb.jpg"
+      img: ":project1_thumb.jpg"
       img_title: "img title2"
       date: "2021-04-23"
       post: |
@@ -209,7 +209,7 @@ page_data:
     - type: id_quote
       project_name: "Exemplo de Projeto"
       project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
+      img: ":project1_thumb.jpg"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
@@ -225,7 +225,7 @@ page_data:
     - type: id_quote
       project_name: "Exemplo de Projeto"
       project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
+      img: ":project1_thumb.jpg"
       img_title: "img title6"
       date: "2021-12-20"
       post: |
